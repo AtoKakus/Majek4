@@ -1,5 +1,17 @@
 @media (min-width: 767px) {
+	.family {
+		h3 {
+			font-size: 2.5rem;
+			padding: 45px 90px;
+		}
+	}
 
 
-
+    .hero{
+        &__nav-logo-mobile{
+		
+			font-size: 4.5rem;
+			
+		}
+    }
 }
